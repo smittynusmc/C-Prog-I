@@ -1,0 +1,4 @@
+﻿  CharConverter.cpp
+c:\users\adama\source\repos\charconverter\charconverter\charconverter.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\adama\source\repos\charconverter\charconverter\charconverter.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  CharConverter.vcxproj -> C:\Users\AdamA\source\repos\CharConverter\Debug\CharConverter.exe
